@@ -1,0 +1,1 @@
+g++ -std=c++0x main.cpp -o out -I/usr/include/SDL2 -lSDL2 -lGL -lm -lGLEW -lglfw -lSDL2_mixer -I/usr/include/SOIL -lSOIL
